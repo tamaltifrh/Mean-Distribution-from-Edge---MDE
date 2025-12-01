@@ -1,0 +1,11 @@
+A. Unzip all the subfolders and drop them in the same folder where you are copying Center_mass_code.m file
+
+
+B. Steps to use the MDE calculation Matlab code- 
+Images that can be used - it should be tiff image with two channels - first channel should be of the entity of which you want the centre of mass and thus MDE; 
+and the second channel is what you will use to mark the cell  boundary and edge.
+[before starting, make sure the images are kept in the folder in which the code is there]
+
+1. Mark the cell ROI. Press enter. 
+2. Mark the edge boundary of the cell by dragging the cursor. Press enter. 
+3. Select the centre of the edge. press enter. 
